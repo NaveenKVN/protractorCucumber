@@ -1,0 +1,32 @@
+{
+  "name": "protractorcucumber",
+  "version": "1.0.0",
+  "description": "Automation Framework using protractor and cucumber",
+  "main": "index.js",
+  "dependencies": {
+    "protractor": "^3.3.0"
+  },
+  "devDependencies": {
+    "cucumber": "^0.10.2",
+    "gulp": "^3.9.1",
+    "protractor": "^3.3.0",
+    "protractor-cucumber-framework": "^0.5.0"
+  },
+  "scripts": {
+    "test": "testRun"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NaveenKVN/protractorCucumber.git"
+  },
+  "keywords": [
+    "test",
+    "run"
+  ],
+  "author": "Naveen KV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NaveenKVN/protractorCucumber/issues"
+  },
+  "homepage": "https://github.com/NaveenKVN/protractorCucumber#readme"
+}
